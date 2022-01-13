@@ -17,10 +17,12 @@
 ### Training Data
 
 *  __Shape of Training Data: (42668, 11)__
-![grafik.png](attachment:grafik.png)
+![grafik](https://user-images.githubusercontent.com/61450446/149250735-f374ab92-7aed-4ddf-bde2-ce035c3a7fb1.png)
+
 
 ### Evaluation Data
 * __Shape of Training Data: (7604, 11)__
-![grafik-2.png](attachment:grafik-2.png)
+![grafik](https://user-images.githubusercontent.com/61450446/149250699-bb52f073-913b-4bfb-b0bc-d627da3c34d0.png)
+
 
 ## 
